@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Redigeringsverktøy
+.vscode/
+.idea/
+*.swp
+
+# Lokale hjelpefiler for utvikling
+.claude/
+node_modules/
